@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "R R",
+    "R R"
+  ],
+  "key": {
+    "R": {
+      "item": "nickelm:ruby_ingots"
+    }
+  },
+  "result": {
+    "item": "nickelm:ruby_boots"
+  }
+}

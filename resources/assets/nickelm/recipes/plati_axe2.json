@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " PP",
+    " SP",
+    " S "
+  ],
+  "key": {
+    "P": {
+      "item": "nickelm:plati_ingots"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "nickelm:plati_axe"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P P",
+    "PPP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "nickelm:plati_ingots"
+    }
+  },
+  "result": {
+    "item": "nickelm:plati_chestplate"
+  }
+}

@@ -1,0 +1,62 @@
+itemGroup.nickeltab=nickel mod
+
+tile.nickel_ore.name=nickel ore
+item.nickel_ingots.name=nickel ingots
+item.nickel_helmet.name=nickel helmet
+item.nickel_chestplate.name=nickel chestplate
+item.nickel_leggings.name=nickel leggings
+item.nickel_boots.name=nickel boots
+item.nickel_axe.name=nickel axe
+item.nickel_pickaxe.name=nickel pickaxe
+item.nickel_hoe.name=nickel hoe
+item.nickel_shovel.name=nickel shovel
+item.nickel_sword.name=nickel sword
+
+item.nickel_axe1.name=nickel axe
+item.nickel_pickaxe1.name=nickel pickaxe
+item.nickel_axe2.name=nickel axe
+item.nickel_pickaxe2.name=nickel pickaxe
+item.nickel_axe3.name=nickel axe
+item.nickel_pickaxe3.name=nickel pickaxe
+item.nickel_axe4.name=nickel axe
+item.nickel_pickaxe4.name=nickel pickaxe
+
+tile.malachite_ore.name=malachite ore
+item.malachite_ingots.name=malachite ingots
+item.malachite_helmet.name=malachite helmet
+item.malachite_chestplate.name=malachite chestplate
+item.malachite_leggings.name=malachite leggings
+item.malachite_boots.name=malachite boots
+item.malachite_axe.name=malachite axe
+item.malachite_pickaxe.name=malachite pickaxe
+item.malachite_hoe.name=malachite hoe
+item.malachite_shovel.name=malachite shovel
+item.malachite_sword.name=malachite sword
+
+
+tile.ruby_ore.name=ruby ore
+item.ruby_ingots.name=ruby ingots
+item.ruby_helmet.name=ruby helmet
+item.ruby_chestplate.name=ruby chestplate
+item.ruby_leggings.name=ruby leggings
+item.ruby_boots.name=ruby boots
+item.ruby_axe.name=ruby axe
+item.ruby_pickaxe.name=ruby pickaxe
+item.ruby_hoe.name=ruby hoe
+item.ruby_shovel.name=ruby shovel
+item.ruby_sword.name=ruby sword
+
+
+tile.plati_ore.name=platinium ore
+item.plati_ingots.name=platinium ingots
+item.plati_helmet.name=platinium helmet
+item.plati_chestplate.name=platinium chestplate
+item.plati_leggings.name=platinium leggings
+item.plati_boots.name=platinium boots
+item.plati_axe.name=platinium axe
+item.plati_pickaxe.name=platinium pickaxe
+item.plati_hoe.name=platinium hoe
+item.plati_shovel.name=platinium shovel
+item.plati_sword.name=platinium sword
+
+

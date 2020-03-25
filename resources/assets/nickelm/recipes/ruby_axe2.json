@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " RR",
+    " SR",
+    " S "
+  ],
+  "key": {
+    "R": {
+      "item": "nickelm:ruby_ingots"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "nickelm:ruby_axe"
+  }
+}

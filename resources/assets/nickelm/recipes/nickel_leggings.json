@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NNN",
+    "N N",
+    "N N"
+  ],
+  "key": {
+    "N": {
+      "item": "nickelm:nickel_ingots"
+    }
+  },
+  "result": {
+    "item": "nickelm:nickel_leggings"
+  }
+}
